@@ -19,3 +19,5 @@ Some work in a deep learning course that I TAed
 [seaborn](https://seaborn.pydata.org/)
 
 [Keras](https://keras.io/)
+
+[OpenCV](https://pypi.org/project/opencv-python/)
